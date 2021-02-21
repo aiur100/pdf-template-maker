@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color:cyan;
+}
+
+#app {
+    height: 700px;
+    width: 280px;
+    background-color: white;
+}
